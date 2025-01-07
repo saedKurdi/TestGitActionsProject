@@ -16,6 +16,14 @@ namespace TestGitActionsProject.Controllers
         public IActionResult Index()
         {
             var name = "Seid";
+            var name2 = "Ulfet";
+            return View();
+        }
+
+        public IActionResult Index2()
+        {
+            var name = "Seid";
+            var name2 = "Ulfet";
             return View();
         }
 
