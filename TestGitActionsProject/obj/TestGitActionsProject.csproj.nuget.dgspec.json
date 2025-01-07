@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActionsProject\\TestGitActionsProject\\TestGitActionsProject.csproj": {}
+    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActions\\TestGitActionsProject\\TestGitActionsProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActionsProject\\TestGitActionsProject\\TestGitActionsProject.csproj": {
+    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActions\\TestGitActionsProject\\TestGitActionsProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActionsProject\\TestGitActionsProject\\TestGitActionsProject.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActions\\TestGitActionsProject\\TestGitActionsProject.csproj",
         "projectName": "TestGitActionsProject",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActionsProject\\TestGitActionsProject\\TestGitActionsProject.csproj",
+        "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActions\\TestGitActionsProject\\TestGitActionsProject.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActionsProject\\TestGitActionsProject\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\IT STEP\\My Drive\\DevOps\\Lessons\\TestGitActions\\TestGitActionsProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
